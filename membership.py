@@ -1,7 +1,7 @@
 color = ['red', 'green', 'blue']
 
 # Membership Operator
-if 'red' not in color:
+if 'red' in color:
 	print('YES')
 else:
 	print('No')
